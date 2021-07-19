@@ -6,3 +6,6 @@ artifacts/
 .vscode/
 .dotnet/
 *.binlog
+output
+dotnet-install.sh
+dotnet5
